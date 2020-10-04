@@ -1,4 +1,3 @@
-name: bayesian-modelling-tutorial
 channels:
 - conda-forge
 - defaults
@@ -34,3 +33,4 @@ dependencies:
 - holoviews=1.12.5
 - mkl=2019.4
 - mkl-service=2.2.0
+- empiricaldist
